@@ -72,7 +72,7 @@ export default function App() {
 
 const styles = StyleSheet.create({
   safeArea: {
-    height: 290,
+    height: 250,
     alignItems: 'center',
   },
   titleApp: {
@@ -83,7 +83,7 @@ const styles = StyleSheet.create({
   },
   background: {
     backgroundColor: colors.PRIMARY_COLOR,
-    height: 200,
+    height: 160,
     width: '100%',
     borderBottomLeftRadius: 30,
     borderBottomRightRadius: 30,
